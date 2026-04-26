@@ -95,7 +95,8 @@ export default function Footer() {
 
                 <div className={styles.bottom}>
                     <p className={styles.copyright}>
-                        © {new Date().getFullYear()} Open Slate VFX. All rights reserved.
+                        © {new Date().getFullYear()} Open Slate VFX. All rights reserved.<br />
+                        <span style={{ opacity: 0.7, fontSize: '0.85rem' }}>Developed with <b>Antigravity AI</b></span>
                     </p>
                     <div className={styles.bottomLinks}>
                         <Link href="#">Privacy Policy</Link>

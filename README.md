@@ -75,5 +75,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Akankshashelar96">Akanksha Shelar</a>
+  Built with ❤️ by <a href="https://github.com/Akankshashelar96">Akanksha Shelar</a><br>
+  Powered by <b>Antigravity AI</b> by Google
 </p>
