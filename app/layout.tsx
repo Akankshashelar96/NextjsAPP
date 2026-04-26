@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Open Slate VFX | Visual Effects & Virtual Production Studio",
   description: "Open Slate is a cutting-edge VFX studio specializing in visual effects, virtual production, 3D assets creation, concept art, and shoot supervision for films, TVC, and OTT platforms.",
   keywords: "VFX, Visual Effects, Virtual Production, 3D Assets, Concept Art, Film VFX, LED Volume, Real-time VFX, Unreal Engine, Houdini",
-  authors: [{ name: "Open Slate VFX" }],
+  authors: [{ name: "Akanksha Shelar" }],
   openGraph: {
     title: "Open Slate VFX | Visual Effects & Virtual Production Studio",
     description: "Creating in-camera visual effects for virtual production. We deal with fluids, particles, explosions, and make them look photo-real.",

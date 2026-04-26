@@ -48,23 +48,23 @@ export default function Contact() {
                         </p>
 
                         <div className={styles.contactItems}>
-                            <a href="tel:918570171212" className={styles.contactItem}>
+                            <a href="tel:9011473209" className={styles.contactItem}>
                                 <div className={styles.contactIcon}>
                                     <Phone size={20} />
                                 </div>
                                 <div className={styles.contactDetails}>
                                     <span className={styles.contactLabel}>Phone</span>
-                                    <span className={styles.contactValue}>+91 857 017 1212</span>
+                                    <span className={styles.contactValue}>+91 90114 73209</span>
                                 </div>
                             </a>
 
-                            <a href="mailto:team@openslatevfx.com" className={styles.contactItem}>
+                            <a href="mailto:akankshashelar004@gmail.com" className={styles.contactItem}>
                                 <div className={styles.contactIcon}>
                                     <Mail size={20} />
                                 </div>
                                 <div className={styles.contactDetails}>
                                     <span className={styles.contactLabel}>Email</span>
-                                    <span className={styles.contactValue}>team@openslatevfx.com</span>
+                                    <span className={styles.contactValue}>akankshashelar004@gmail.com</span>
                                 </div>
                             </a>
 
